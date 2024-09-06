@@ -7,3 +7,8 @@
 
 - Se requiere que la estación de peaje calcule el valor del peaje de cada vehículo que llegue y el total de peajes recolectados. Así, al finalizar, el sistema debe imprimir en pantalla un listado con los vehículos que llegaron al peaje y el total acumulado.
 
+## capturas
+![18460b35b5e03eb61f92d839194754bb](https://github.com/user-attachments/assets/8c797f80-d00c-4f46-be83-1d6a21a245bb)
+
+![06377920a090081b1c6486f1a775d980](https://github.com/user-attachments/assets/d9e48547-9bdd-46d8-8732-99155d797581)
+
